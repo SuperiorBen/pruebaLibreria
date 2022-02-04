@@ -1,0 +1,19 @@
+{
+  "name": "libreria",
+  "version": "1.0.0",
+  "description": "Libreria de prueba",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuperiorBen/pruebaLibreria.git"
+  },
+  "author": "Benjamin Chipagua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuperiorBen/pruebaLibreria/issues"
+  },
+  "homepage": "https://github.com/SuperiorBen/pruebaLibreria#readme"
+}
