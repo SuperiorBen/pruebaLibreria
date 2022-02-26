@@ -1,6 +1,6 @@
 {
   "name": "npm-libreria-prueba",
-  "version": "1.0.5",
+  "version": "1.0.17",
   "description": "Libreria de prueba",
   "main": "src/index.js",
   "scripts": {
@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/SuperiorBen/pruebaLibreria/issues"
   },
-  "homepage": "https://github.com/SuperiorBen/pruebaLibreria#readme"
+  "homepage": "https://github.com/SuperiorBen/pruebaLibreria#readme",
+  "dependencies": {}
 }
